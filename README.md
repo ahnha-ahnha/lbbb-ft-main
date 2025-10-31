@@ -1,4 +1,4 @@
-# FT-Transformer Feature Selection (Main Only)
+# FT-Transformer Feature Selection
 
 Main-only, reproducible pipeline to compute feature-wise p-values from FT-Transformer embeddings via Hotelling's T^2.
 
