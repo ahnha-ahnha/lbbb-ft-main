@@ -8,7 +8,6 @@ import torch.nn as nn
 import torch.optim as optim
 from scipy.stats import f
 
-# --- 유연한 import: 수정본 Encoder2 / 공식 FTTransformer 둘 다 커버 ---
 _TT_CLASS = None
 try:
     from tab_transformer_pytorch.ft_transformer import FTTransformerEncoder2 as _TT
